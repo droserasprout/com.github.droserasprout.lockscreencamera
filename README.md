@@ -11,7 +11,7 @@ Xposed Framework module to skip authentication on \"Quickly open camera\" gestur
 
 ## Installation
 
-1. Install latest version of [Magisk]()
+1. Install latest version of [Magisk](https://github.com/topjohnwu/Magisk)
 2. Install [Riru](https://github.com/Magisk-Modules-Repo/riru-core) and [Riru LSPosed](https://github.com/Magisk-Modules-Repo/riru_lsposed) from Magisk module repository
 3. Install Secure Lockscreen Camera package
 4. Enable module in LSPosed app with recommended scope, reboot
